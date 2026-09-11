@@ -3,7 +3,7 @@ My name is Dalmas, and I am a Moringa Student trained Data Scientist interested 
 -  I’m currently working on a data analysis project exploring Kenya Food Price Warning System
 -  I’m currently learning Python (Pandas,Numpy,Scikit-learn and Sql.
 -  I’m looking to collaborate on data science and machine learning projects especially around.[NLP,Computer Vision,predictive]
--  Ask me about data visualization,statistics and ML.
+-  Ask me about data visualization and ML.
 -  How to reach me: dalmasotieno2024@gmail.com
 
 <!--
